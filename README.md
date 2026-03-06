@@ -47,7 +47,7 @@ Feel free to customize this project. For questions or support, contact me via Di
 * **Username:** not.blaze.w
 * **Server:** [Join Link](https://discord.gg/XqPm4JdHzX)
 
-**Developed With ❤ by NotBLAZE**
+**Made With ❤ by NotBLAZE**
 
 ---
 
